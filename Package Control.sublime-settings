@@ -1,0 +1,36 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"ApacheConf.tmLanguage",
+		"Artisan",
+		"Case Conversion",
+		"DevDocs",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"FavoriteFiles",
+		"Gist",
+		"Git Config",
+		"Handlebars",
+		"hosts",
+		"INI",
+		"Laravel Blade Highlighter",
+		"Modific",
+		"Package Control",
+		"Puppet",
+		"SCSS",
+		"SFTP",
+		"SideBarEnhancements",
+		"sublime-github",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-jscs",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"SublimeLinter-shellcheck",
+		"Theme - Soda",
+		"Themr",
+		"TrailingSpaces"
+	]
+}
