@@ -103,9 +103,7 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"INI",
 		"sublime-github",
-		"hosts",
 		"Vintage"
 	],
 	"indent_guide_options":
