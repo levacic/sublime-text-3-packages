@@ -27,6 +27,8 @@
 		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
 		"SublimeLinter-php",
+		"SublimeLinter-pyflakes",
+		"SublimeLinter-pylint",
 		"SublimeLinter-shellcheck",
 		"Theme - Soda",
 		"Themr",
