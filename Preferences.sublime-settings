@@ -103,8 +103,8 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"sublime-github",
-		"Vintage"
+		"Vintage",
+		"sublime-github"
 	],
 	"indent_guide_options":
 	[
