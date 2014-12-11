@@ -2,6 +2,7 @@
 	"extensions":
 	[
 		".jscsrc",
-		".jshintrc"
+		".jshintrc",
+		".jsbeautifyrc"
 	]
 }
