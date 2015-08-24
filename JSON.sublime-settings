@@ -3,6 +3,8 @@
 	[
 		".jscsrc",
 		".jshintrc",
-		".jsbeautifyrc"
+		".jsbeautifyrc",
+		".bowerrc",
+		".sublimelinterrc"
 	]
 }
