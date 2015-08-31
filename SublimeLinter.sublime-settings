@@ -37,6 +37,13 @@
                 "rcfile": "",
                 "show-codes": false
             },
+            "scss": {
+                "@disable": true,
+                "args": [],
+                "exclude-linter": "",
+                "excludes": [],
+                "include-linter": ""
+            },
             "shellcheck": {
                 "@disable": false,
                 "args": [],

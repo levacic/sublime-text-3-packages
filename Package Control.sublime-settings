@@ -31,6 +31,7 @@
 		"SideBarEnhancements",
 		"SublimeGit",
 		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
 		"SublimeLinter-php",
