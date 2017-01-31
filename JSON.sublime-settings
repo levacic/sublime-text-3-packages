@@ -5,6 +5,7 @@
 		".jshintrc",
 		".jsbeautifyrc",
 		".bowerrc",
-		".sublimelinterrc"
+		".sublimelinterrc",
+		".babelrc"
 	]
 }
