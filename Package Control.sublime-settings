@@ -7,6 +7,7 @@
 	"installed_packages":
 	[
 		"ApacheConf.tmLanguage",
+		"Babel",
 		"Case Conversion",
 		"DevDocs",
 		"DocBlockr",
