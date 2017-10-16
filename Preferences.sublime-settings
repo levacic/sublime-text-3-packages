@@ -92,11 +92,12 @@
 		".hg",
 		"CVS"
 	],
+	"font_face": "Inconsolata",
 	"font_options":
 	[
 		"gray_antialias"
 	],
-	"font_size": 8,
+	"font_size": 10,
 	"gpu_window_buffer": "auto",
 	"gutter": true,
 	"highlight_line": true,
