@@ -34,4 +34,11 @@
           { "key": "selector", "operator": "equal", "operand": "comment.block" }
       ]
     },
+
+    /**
+     * Fixed Command Palette Input Selection custom plugin.
+     *
+     * @link https://forum.sublimetext.com/t/dev-build-3156/33722/4?u=levacic
+     */
+    { "keys": ["ctrl+shift+p"], "command": "fixed_command_palette_input_selection" },
 ]
