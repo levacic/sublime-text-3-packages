@@ -1,7 +1,10 @@
 {
     "files": [
-        "/etc/hosts"
+        {
+            "alias": "hosts",
+            "file": "/etc/hosts"
+        }
     ],
     "groups": {},
-    "version": 1
+    "version": 2
 }
