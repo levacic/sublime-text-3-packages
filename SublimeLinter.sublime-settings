@@ -36,14 +36,34 @@
     //     }
     // }
     "linters": {
+        // Disable all linters by default, and enable them per-project.
+        "eslint": {
+            "disable": true
+        },
+        "jscs": {
+            "disable": true
+        },
+        "jshint": {
+            "disable": true
+        },
+        "php": {
+            // We always want this linter turned on, as it only lints for valid
+            // syntax, without concerning itself over code style aspects.
+            "disable": false,
+        },
+        "phpcs": {
+            "disable": true,
+            // Allow phpcs to automatically find the standard to use.
+            "standard": false
+        },
+        "scss": {
+            "disable": true
+        },
         "shellcheck": {
-            "args": [],
-            "disabled": false,
-            "exclude": "",
-            "excludes": [
-                "*/.env",
-                "*/.env.example"
-            ]
+            "disable": true
+        },
+        "stylelint": {
+            "disable": true
         }
     },
 
