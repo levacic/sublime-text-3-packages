@@ -45,6 +45,7 @@
 		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
 		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
 		"SublimeLinter-pyflakes",
 		"SublimeLinter-pylint",
 		"SublimeLinter-shellcheck",
