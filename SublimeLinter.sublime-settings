@@ -70,7 +70,7 @@
     // Determines what happens when a linter reports a problem without column.
     // By default, a mark is put in the gutter but no text is highlighted.
     // If this setting is ``true``, the entire line is also highlighted.
-    "no_column_highlights_line": false,
+    "no_column_highlights_line": true,
 
     // Global styles for all linters.
     // - mark_style options:
@@ -98,7 +98,7 @@
             "mark_style": "outline",
             "priority": 1,
             "scope": "region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter",
-            "icon": "dot",
+            "icon": "warning",
             "types": [
                 "warning"
             ]
@@ -107,7 +107,7 @@
             "mark_style": "outline",
             "priority": 1,
             "scope": "region.redish markup.deleted.sublime_linter markup.error.sublime_linter",
-            "icon": "dot",
+            "icon": "error",
             "types": [
                 "error"
             ]
