@@ -36,7 +36,7 @@
     //     }
     // }
     "linters": {
-        // Disable all linters by default, and enable them per-project.
+        // Disable (almost) all linters by default, and enable them per-project.
         "eslint": {
             "disable": true
         },
