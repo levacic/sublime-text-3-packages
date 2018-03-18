@@ -56,7 +56,7 @@
             // Allow phpcs to automatically find the standard to use.
             "standard": false
         },
-        "scss": {
+        "scsslint": {
             "disable": true
         },
         "shellcheck": {
