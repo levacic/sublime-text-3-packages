@@ -146,6 +146,7 @@
 	"scroll_past_end": true,
 	"scroll_speed": 1.0,
 	"shift_tab_unindent": true,
+	"show_definitions": false,
 	"show_encoding": true,
 	"show_full_path": true,
 	"show_git_status": false,
