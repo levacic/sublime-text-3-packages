@@ -22,10 +22,12 @@
 		"Hosts",
 		"HTML-CSS-JS Prettify",
 		"INI",
+		"Kotlin",
 		"Laravel Blade Highlighter",
 		"LESS",
 		"Material Theme",
 		"Modific",
+		"MoveTab",
 		"MultiEditUtils",
 		"nginx",
 		"Package Control",
@@ -40,7 +42,6 @@
 		"SublimeGit",
 		"SublimeLinter",
 		"SublimeLinter-contrib-scss-lint",
-		"SublimeLinter-contrib-stylelint",
 		"SublimeLinter-eslint",
 		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
@@ -49,10 +50,13 @@
 		"SublimeLinter-pyflakes",
 		"SublimeLinter-pylint",
 		"SublimeLinter-shellcheck",
+		"SublimeLinter-stylelint",
 		"Swift",
 		"Theme - Soda",
+		"Theme - Solarized Flat",
 		"Themr",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"Vue Syntax Highlight"
 	],
 	"repositories":
 	[
