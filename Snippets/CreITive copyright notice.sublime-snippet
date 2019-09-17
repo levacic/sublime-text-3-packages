@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[@copyright ©2011-2018 CreITive (https://www.creitive.com)]]></content>
+	<content><![CDATA[@copyright ©2011-2019 CreITive (https://www.creitive.com)]]></content>
 	<tabTrigger>@copy</tabTrigger>
 	<scope>source</scope>
 	<description>CreITive copyright notice</description>
