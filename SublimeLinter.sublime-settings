@@ -1,4 +1,5 @@
 {
+    "delay": 1,
     "gutter_theme": "Default",
     "linters": {
         // Disable (almost) all linters by default, and enable them per-project.
