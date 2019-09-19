@@ -45,6 +45,7 @@
 		"SublimeLinter-eslint",
 		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
+		"SublimeLinter-json",
 		"SublimeLinter-php",
 		"SublimeLinter-phpcs",
 		"SublimeLinter-pyflakes",
