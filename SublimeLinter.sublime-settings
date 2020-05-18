@@ -15,6 +15,9 @@
         "json": {
             "disable": false
         },
+        "markdownlint": {
+            "disable": true
+        },
         "php": {
             // We always want this linter turned on, as it only lints for valid
             // syntax, without concerning itself over code style aspects.

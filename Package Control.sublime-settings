@@ -43,6 +43,7 @@
 		"sublime-set-name-of-unsaved-buffer",
 		"SublimeGit",
 		"SublimeLinter",
+		"SublimeLinter-contrib-markdownlint",
 		"SublimeLinter-contrib-phpstan",
 		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-eslint",
