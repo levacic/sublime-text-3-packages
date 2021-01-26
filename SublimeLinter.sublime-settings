@@ -1,6 +1,7 @@
 {
     "delay": 1,
     "gutter_theme": "Default",
+    "kill_old_processes": true,
     "linters": {
         // Disable (almost) all linters by default, and enable them per-project.
         "eslint": {
