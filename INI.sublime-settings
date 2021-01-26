@@ -2,6 +2,7 @@
 	"extensions":
 	[
 		"config",
-		".hgrc"
+		".hgrc",
+		"credentials"
 	]
 }
