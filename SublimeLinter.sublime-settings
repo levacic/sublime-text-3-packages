@@ -21,7 +21,8 @@
         "php": {
             // We always want this linter turned on, as it only lints for valid
             // syntax, without concerning itself over code style aspects.
-            "disable": false
+            "disable": false,
+            "selector": "source.php - text.blade"
         },
         "phpcs": {
             "disable": true,
