@@ -17,6 +17,8 @@
 		"Dockerfile Syntax Highlighting",
 		"EditorConfig",
 		"EJS",
+		"EML (E-Mail)",
+		"ExpressionEngine",
 		"FavoriteFiles",
 		"Gist",
 		"Git Config",
@@ -64,6 +66,8 @@
 		"Theme - Solarized Flat",
 		"Themr",
 		"TrailingSpaces",
+		"TypeScript",
+		"TypeScript Syntax",
 		"Vue Syntax Highlight"
 	],
 	"repositories":
