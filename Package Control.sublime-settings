@@ -37,7 +37,6 @@
 		"Nette + Latte + Neon",
 		"nginx",
 		"Package Control",
-		"PHP-Twig",
 		"PhpNamespace",
 		"Pretty JSON",
 		"Puppet",
@@ -66,6 +65,7 @@
 		"Theme - Solarized Flat",
 		"Themr",
 		"TrailingSpaces",
+		"Twig",
 		"TypeScript",
 		"TypeScript Syntax",
 		"Vue Syntax Highlight"
